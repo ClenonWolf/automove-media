@@ -2,6 +2,7 @@
 
 #This script automatically moves files from downloads into dedicated folders.
 #To use it yourself you have to change the paths manually
+#mv /path/to/downloads/*.png path/to/directory
 #To run this file on startup you have to add "sudo sh /path/to/file/automove-media.sh" to /etc/rc.local
 
 while true
