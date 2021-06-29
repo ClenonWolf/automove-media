@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #This script automatically moves files from downloads into dedicated folders.
 #To use it yourself you have to change the paths manually
 #mv /path/to/downloads/*.png path/to/directory
